@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/bug/web/controller/user/UserController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/hello.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.ftl=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
